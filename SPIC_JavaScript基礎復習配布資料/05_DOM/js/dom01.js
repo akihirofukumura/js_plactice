@@ -1,1 +1,1 @@
-// document.body.innerText = "Hello";
+document.body.innerText = "Hello";
