@@ -11,3 +11,5 @@ smallBtn.addEventListener("click", () => {
   text.style.fontSize = "20px";
   console.log("20px");
 });
+
+// css を付け加えるならstyle
