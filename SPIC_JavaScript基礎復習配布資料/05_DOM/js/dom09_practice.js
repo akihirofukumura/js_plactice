@@ -7,3 +7,8 @@ bBtn.addEventListener("click", () => {
   font += 2;
   text.style.fontSize = `${font}px`;
 });
+
+sBtn.addEventListener("click", () => {
+  font -= 2;
+  text.style.fontSize = `${font}px`;
+});
