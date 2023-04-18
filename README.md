@@ -1,4 +1,4 @@
-# js_plactice
+# js_practice
 
 # Spic で先生が作ってくれた js 課題の自主勉強用
 
