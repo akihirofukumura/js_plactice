@@ -1,4 +1,6 @@
-const name_people = document.getElementsByClassName("name");
-const class_number = document.getElementsByClassName("class");
+const name_item = document.getElementsByTagName("td");
+const name_a = document.getElementsByClassName("name");
 
-console.log(name_people);
+for (let i = 0; i < name_item.length; i++) {
+  console.log(name_a[i]);
+}
